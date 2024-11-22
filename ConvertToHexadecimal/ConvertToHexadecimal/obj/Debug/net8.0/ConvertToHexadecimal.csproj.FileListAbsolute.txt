@@ -1,0 +1,14 @@
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\bin\Debug\net8.0\ConvertToHexadecimal.exe
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\bin\Debug\net8.0\ConvertToHexadecimal.deps.json
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\bin\Debug\net8.0\ConvertToHexadecimal.runtimeconfig.json
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\bin\Debug\net8.0\ConvertToHexadecimal.dll
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\bin\Debug\net8.0\ConvertToHexadecimal.pdb
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.AssemblyInfo.cs
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.dll
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\refint\ConvertToHexadecimal.dll
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.pdb
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ConvertToHexadecimal.genruntimeconfig.cache
+C:\Users\monsh\source\repos\ConvertToHexadecimal\ConvertToHexadecimal\obj\Debug\net8.0\ref\ConvertToHexadecimal.dll
