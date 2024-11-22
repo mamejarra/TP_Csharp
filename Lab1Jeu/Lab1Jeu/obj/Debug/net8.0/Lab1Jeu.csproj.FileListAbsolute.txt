@@ -1,0 +1,14 @@
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\bin\Debug\net8.0\Lab1Jeu.exe
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\bin\Debug\net8.0\Lab1Jeu.deps.json
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\bin\Debug\net8.0\Lab1Jeu.runtimeconfig.json
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\bin\Debug\net8.0\Lab1Jeu.dll
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\bin\Debug\net8.0\Lab1Jeu.pdb
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.AssemblyInfoInputs.cache
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.AssemblyInfo.cs
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.csproj.CoreCompileInputs.cache
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.dll
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\refint\Lab1Jeu.dll
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.pdb
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\Lab1Jeu.genruntimeconfig.cache
+C:\Users\monsh\source\repos\Lab1Jeu\Lab1Jeu\obj\Debug\net8.0\ref\Lab1Jeu.dll
